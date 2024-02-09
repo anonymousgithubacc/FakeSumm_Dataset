@@ -26,10 +26,3 @@ Each JSON file in this repository contains a JSON object with the following fiel
 3. `misrepresentation_dataset.json`: Dataset specifically focused on misrepresentation misinformation.
 4. `false_attribution_dataset.json`: Dataset specifically focused on false attribution misinformation.
 5. `inaccurate_quantities_dataset.json`: Dataset specifically focused on inaccurate quantities misinformation.
-
-## Usage 🖥️
-
-Researchers and practitioners can utilize the Fakesumm Dataset for various purposes, including:
-
-- Evaluating the robustness of language models against misinformation.
-- Training and benchmarking models for misinformation detection and summarization tasks.
